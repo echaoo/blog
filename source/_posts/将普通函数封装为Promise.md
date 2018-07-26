@@ -1,7 +1,8 @@
 ---
 title: 将普通函数封装为Promise
 date: 2018-04-26 17:32
-tags:
+tags: web前端, Js
+categories: web前端
 ---
 
 ##### 问题描述

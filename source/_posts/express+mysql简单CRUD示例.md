@@ -1,7 +1,8 @@
 ---
 title: express + mysql简单CRUD示例
 date: 2018-01-02
-tags:
+tags: web前端
+categories: notes
 ---
 
 最近写一个博客的接口，就是简单的CRUD，选择了最熟悉的js，用了express框架，因为之前没有接触过，在网上查相关教程，很少有特别完整细致的示例，所以记录一下学习过程。

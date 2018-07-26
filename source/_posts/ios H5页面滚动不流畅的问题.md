@@ -1,7 +1,8 @@
 ---
 title: iso H5页面滚动不流畅的问题
 date: 2018-06-21
-tags: 
+tags: web前端；ios
+categories: notes
 ---
 
 最近做一个需要在移动端浏览的静态页面，发现在ios下滑动页面时，页面滚动很卡顿。下面记录一下解决方法：

@@ -1,8 +1,8 @@
 ---
 title: js数组对象排序
 date: 2017-07-22 19:58
-tags:
-categories: 
+tags: web前端
+categories: notes
 ---
 
 最近用到排序功能，简单记录一下：

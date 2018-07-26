@@ -2,7 +2,8 @@
 title: hexo Cannot read property 'offset' of null
 
 date: 2017-12-26 18:38
-tags:
+tags: web前端
+categories: web前端
 ---
 
 写博客编译的时候一直报这个错误，查了一下竟然是时区错误，记录一下：

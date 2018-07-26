@@ -1,7 +1,8 @@
 ---
 title: fetch设置header.Authorization成功，单请求头中没有的问题
 date: 2018-06-29
-tags: 
+tags: web前端
+categories: notes
 ---
 ##### 问题描述
 最近在项目开发中遇到了一个"奇怪"的问题：
