@@ -42,6 +42,6 @@ const bridge = {
 ```js
 test (image) {
      return bridge.call('uploadImg', (res) => {console.log(res)}, 'imageName')
-
+}
 ```
 以上
